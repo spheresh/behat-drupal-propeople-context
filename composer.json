@@ -1,5 +1,5 @@
 {
-  "name": "behat/drupal-propeople-context",
+  "name": "behat/drupal-spheresh-context",
   "type": "behat-extension",
   "description": "Drupal context by Propeople for Behat",
   "keywords": ["drupal", "web", "test", "behat", "testing"],
